@@ -1,0 +1,46 @@
+{
+  "name": "ThunderStorm Apps",
+  "identifier": "com.thunderstorm.apps",
+  "sourceURL": "https://raw.githubusercontent.com/ThunderStorm333/ThunderStormApps/main/apps.json",
+  "apps": [
+    {
+      "name": "TransitApp",
+      "bundleIdentifier": "ThunderStorm.TransitApp",
+      "developerName": "ThunderStorm",
+      "subtitle": "SwiftUI Transit Management App",
+      "localizedDescription": "A SwiftUI-based iOS application with SwiftData persistence for basic item management. Features a clean interface with NavigationSplitView for iPad compatibility and CRUD functionality for managing items with timestamps.",
+      "tintColor": "007AFF",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-08-01",
+          "localizedDescription": "Initial release with basic item management functionality using SwiftData.",
+          "downloadURL": "https://github.com/ThunderStorm333/ThunderStormApps/raw/main/TransitApp.ipa",
+          "size": 36988,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.developer.icloud-services",
+            "reason": "Sync data across devices using CloudKit"
+          }
+        ],
+        "privacy": []
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "TransitApp v1.0 Released",
+      "identifier": "transitapp-v1-release",
+      "caption": "First release of TransitApp with SwiftData support",
+      "date": "2025-08-01T00:00:00-00:00",
+      "tintColor": "007AFF",
+      "notify": false,
+      "url": "https://github.com/ThunderStorm333/ThunderStormApps"
+    }
+  ]
+}
