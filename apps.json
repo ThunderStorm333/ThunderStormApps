@@ -9,7 +9,7 @@
       "developerName": "ThunderStorm",
       "subtitle": "SwiftUI Transit Management App",
       "localizedDescription": "A SwiftUI-based iOS application with SwiftData persistence for basic item management. Features a clean interface with NavigationSplitView for iPad compatibility and CRUD functionality for managing items with timestamps.",
-      "iconURL": "https://via.placeholder.com/512x512/007AFF/FFFFFF?text=TA",
+      "iconURL": "https://raw.githubusercontent.com/ThunderStorm333/ThunderStormApps/main/icons/TransitApp.png",
       "tintColor": "007AFF",
       "category": "utilities",
       "screenshots": [],
