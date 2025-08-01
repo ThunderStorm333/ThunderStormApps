@@ -9,8 +9,10 @@
       "developerName": "ThunderStorm",
       "subtitle": "SwiftUI Transit Management App",
       "localizedDescription": "A SwiftUI-based iOS application with SwiftData persistence for basic item management. Features a clean interface with NavigationSplitView for iPad compatibility and CRUD functionality for managing items with timestamps.",
+      "iconURL": "https://via.placeholder.com/512x512/007AFF/FFFFFF?text=TA",
       "tintColor": "007AFF",
       "category": "utilities",
+      "screenshots": [],
       "versions": [
         {
           "version": "1.0",
@@ -39,6 +41,7 @@
       "caption": "First release of TransitApp with SwiftData support",
       "date": "2025-08-01T00:00:00-00:00",
       "tintColor": "007AFF",
+      "imageURL": "https://via.placeholder.com/512x512/007AFF/FFFFFF?text=TA",
       "notify": false,
       "url": "https://github.com/ThunderStorm333/ThunderStormApps"
     }
